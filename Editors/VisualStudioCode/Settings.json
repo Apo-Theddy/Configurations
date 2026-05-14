@@ -1,5 +1,4 @@
 {
-  // ========== Visuals ==========
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.fontFamily": "Input Mono, JetBrainsMono Nerd Font, monospace",
   "editor.guides.bracketPairs": false,
